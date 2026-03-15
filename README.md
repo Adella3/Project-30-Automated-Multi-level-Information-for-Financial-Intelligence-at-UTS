@@ -7,7 +7,7 @@ Planned Classification Models
 3. FinBERT
 
 <br>
-Team Members
+Team Members <br>
 - Minjung Koo (Adella) <br>
 - Hyejeong Yu <br>
 - Myeongseo Choi (Celine) <br>
