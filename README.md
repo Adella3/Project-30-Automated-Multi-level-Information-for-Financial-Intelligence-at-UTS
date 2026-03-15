@@ -9,7 +9,7 @@ Planned Classification Models
 <br>
 Team Members <br>
 - Minjung Koo (Adella) <br>
-- Hyejeong Yu <br>
+- Hyojeong Yu <br>
 - Myeongseo Choi (Celine) <br>
 - Seongwoong Kim <br>
 - Carlos Daroy <br>
