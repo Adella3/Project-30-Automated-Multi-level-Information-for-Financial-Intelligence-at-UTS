@@ -3,7 +3,7 @@
 import requests
 from datetime import datetime
 
-API_KEY = "68ccc338-0ad3-475e-875d-f30696608dc7"
+API_KEY = "__"
 
 # Industry Level - example
 industries = [
